@@ -1,6 +1,9 @@
 
 # Forest Fire Prediction
 
+![frontend](https://user-images.githubusercontent.com/86904142/185993973-57c8f915-c1a6-4251-bd4c-9275dee94235.png)
+
+
 ## A brief description of what this project is all about.
 
 
