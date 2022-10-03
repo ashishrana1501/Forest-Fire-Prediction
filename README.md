@@ -8,9 +8,14 @@
 
 # Demonstration
 
+**Classification**
+
 https://user-images.githubusercontent.com/86904142/193569912-92561cac-abbf-4094-914b-0354e213e7d3.mp4
 
 
+**Regression**
+
+https://user-images.githubusercontent.com/86904142/193580650-1856facc-0cc6-4822-afec-421fa2ffc3fe.mp4
 
 ## A brief description of what this project is all about.
 
